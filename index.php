@@ -18,7 +18,10 @@ $obj1 = new Person ("Daniel",28);
 echo $obj1->getName()."<br>";
 echo $obj1->getAge()."<br>";
 
-$obj2 = new House ("",0);
+
+$obj2 = new House ("Bisan",8);
+echo $obj2->getStreetName()."<br>";
+echo $obj2->getStreetNr()."<br>";
 
 ?>
 
