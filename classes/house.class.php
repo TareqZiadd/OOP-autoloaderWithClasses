@@ -2,8 +2,8 @@
 
 class House  {
 
-public  $streetName;
-public $streetNumber;
+private  $streetName;
+private $streetNumber;
 
 
 
